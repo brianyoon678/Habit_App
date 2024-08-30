@@ -21,6 +21,7 @@
         "backgroundColor": "#ffffff"
       }
     },
+    "scheme": "Habit_App",
     "web": {
       "bundler": "metro",
       "output": "static",
